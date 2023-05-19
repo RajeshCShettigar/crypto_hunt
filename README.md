@@ -3,7 +3,7 @@
 CryptoHunt is a cryptocurrency price tracker application built using Flutter and Dart. It allows users to track the latest prices and trends of various cryptocurrencies in real-time. The application utilizes the CoinGecko API to fetch cryptocurrency data and Syncfusion Charts to visualize the price fluctuations.
 
 ## Features 
-* Real-time cryptocurrency price tracking using coingecko api
+* Real-time cryptocurrency price tracking using https://api.coingecko.com/api/v3/coins/ api
 * Interactive charts for visualizing price history
 * Track Favorite coins 
 * User-friendly and intuitive interface
@@ -19,5 +19,5 @@ CryptoHunt is a cryptocurrency price tracker application built using Flutter and
   <img src="./screenshots/wishlist_page.jpeg" alt="Image 2" width="400" style="display: inline-block;">
 </div>
 <div>
-  <img src="./screenshots/news_page.jpeg" alt="Image 1" width="400" style="display: inline-block;align-items:center;justify-items:center">
+  <img src="./screenshots/news_page.jpeg" alt="Image 1" width="400" style="align-items:center;justify-items:center">
 </div>
