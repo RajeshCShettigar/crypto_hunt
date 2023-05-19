@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "473222104800",
+    "project_id": "cryptocurrency-c0279",
+    "storage_bucket": "cryptocurrency-c0279.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473222104800:android:90bdc1c372e4ace3baf285",
+        "android_client_info": {
+          "package_name": "com.example.crypto_hunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473222104800-jmboeud9mmvp1skt2s6sn48iivnmdmtr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crypto_hunt",
+            "certificate_hash": "c1b3dbe9ccdd30d57ab35de9b1b7be1a01dcb356"
+          }
+        },
+        {
+          "client_id": "473222104800-uotts295sg5l63ijloninrukt5bntadc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ5oN5K3-E3X4_RDjwHyNzSMAHZsEGNZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473222104800-uotts295sg5l63ijloninrukt5bntadc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
