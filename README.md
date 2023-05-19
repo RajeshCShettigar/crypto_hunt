@@ -12,21 +12,21 @@ CryptoHunt is a cryptocurrency price tracker application built using Flutter and
 # screenshots 
 
 <p align="center">
-  <img src="./screenshots/home_page.jpeg" alt="Image 1" width="300"height="900" >
+  <img src="./screenshots/home_page.jpeg" alt="Image 1" width="400"height="900" >
 </p>
 
 <p align="center">
-  <img src="./screenshots/view_coin.jpeg" alt="Image 2" width="300"height="900" >
+  <img src="./screenshots/view_coin.jpeg" alt="Image 2" width="400"height="900" >
 </p>
 
 <p align="center">
-  <img src="./screenshots/coin_page.jpeg" alt="Image 1" width="300"height="900" >
+  <img src="./screenshots/coin_page.jpeg" alt="Image 1" width="400"height="900" >
 </p>
 
 <p align="center">
-  <img src="./screenshots/wishlist_page.jpeg" alt="Image 2" width="300"height="900">
+  <img src="./screenshots/wishlist_page.jpeg" alt="Image 2" width="400"height="900">
 </p>
 
 <p align="center">
-  <img src="./screenshots/news_page.jpeg" alt="Image 1" width="300"height="900">
+  <img src="./screenshots/news_page.jpeg" alt="Image 1" width="400"height="900">
 </p>
